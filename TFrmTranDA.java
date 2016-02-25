@@ -1414,4 +1414,9 @@ public class TFrmTranDA extends TForm implements BuildRecord
         }
     }
 
+	public static void main(String[] args)
+	{
+		System.out.println("GitHub");
+	}
+	
 }
