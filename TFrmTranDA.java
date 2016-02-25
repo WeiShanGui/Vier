@@ -4,7 +4,6 @@
 package forms.pur;
 
 import static basectrl.tools.StrToFloatDef;
-import static basectrl.tools.StrToIntDef;
 
 import java.io.IOException;
 import java.util.ArrayList;
